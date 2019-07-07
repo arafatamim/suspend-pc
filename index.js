@@ -20,8 +20,6 @@ module.exports = function(callback) {
     default:
       throw new Error("Unsupported OS");
   }
-  console.log(cmd);
-
   cp.execSync(cmd, function(err, stdout, stderr) {
     callback(err, stdout, stderr);
   });

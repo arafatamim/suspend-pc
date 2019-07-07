@@ -6,5 +6,10 @@
   "repository": "https://github.com/arafatamim/suspend-pc",
   "author": "Tamim Arafat",
   "license": "MIT",
+  "keywords": [
+    "sleep",
+    "suspend",
+    "standby"
+  ],
   "private": false
 }
