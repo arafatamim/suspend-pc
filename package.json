@@ -1,6 +1,6 @@
 {
   "name": "suspend-pc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cross-platform solution to suspend your computer",
   "main": "index.js",
   "repository": "https://github.com/arafatamim/suspend-pc",
