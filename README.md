@@ -1,3 +1,5 @@
+![npm](https://img.shields.io/npm/v/suspend-pc.svg?logo=npm)
+
 # suspend-pc
 
 Cross-platform solution to suspend your computer from Node.js.
