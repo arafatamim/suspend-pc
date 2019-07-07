@@ -1,0 +1,10 @@
+{
+  "name": "suspend-pc",
+  "version": "1.0.0",
+  "description": "Cross-platform solution to suspend your computer",
+  "main": "index.js",
+  "repository": "https://github.com/arafatamim/suspend-pc",
+  "author": "Tamim Arafat",
+  "license": "MIT",
+  "private": false
+}
